@@ -1,0 +1,8 @@
+name: ToggleOp
+version: '1.0'
+main: com.ashkiano.toggleop.ToggleOp
+api-version: '1.16'
+commands:
+  toggleop:
+    description: Toggles OP status.
+    usage: /<command>
