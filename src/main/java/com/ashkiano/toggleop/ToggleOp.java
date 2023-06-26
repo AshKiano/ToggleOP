@@ -8,5 +8,6 @@ public class ToggleOp extends JavaPlugin {
     public void onEnable() {
         saveDefaultConfig();
         this.getCommand("toggleop").setExecutor(new ToggleOpCommand(this));
+        Metrics metrics = new Metrics(this, 18886);
     }
 }

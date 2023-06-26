@@ -1,2 +1,15 @@
-com\ashkiano\toggleop\ToggleOpCommand.class
+com\ashkiano\toggleop\Metrics$SingleLineChart.class
+com\ashkiano\toggleop\Metrics$MultiLineChart.class
+com\ashkiano\toggleop\Metrics$AdvancedBarChart.class
+com\ashkiano\toggleop\Metrics$AdvancedPie.class
+com\ashkiano\toggleop\Metrics$SimplePie.class
+com\ashkiano\toggleop\Metrics$MetricsBase.class
+com\ashkiano\toggleop\Metrics.class
+com\ashkiano\toggleop\Metrics$JsonObjectBuilder$JsonObject.class
+com\ashkiano\toggleop\Metrics$JsonObjectBuilder.class
 com\ashkiano\toggleop\ToggleOp.class
+com\ashkiano\toggleop\Metrics$1.class
+com\ashkiano\toggleop\Metrics$CustomChart.class
+com\ashkiano\toggleop\ToggleOpCommand.class
+com\ashkiano\toggleop\Metrics$SimpleBarChart.class
+com\ashkiano\toggleop\Metrics$DrilldownPie.class
