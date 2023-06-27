@@ -1,1 +1,11 @@
 permission: 'toggleop'
+# This section contains the messages that the /toggleop command sends.
+messages:
+  # Message sent when a player tries to use /toggleop without permission.
+  noPermission: "You do not have permission to use this command!"
+  # Message sent when a non-player (e.g., console) tries to use /toggleop.
+  nonPlayer: "Only players can use this command!"
+  # Message sent when a player's OP status is revoked.
+  revokeOp: "OP status has been revoked."
+  # Message sent when a player is granted OP status.
+  grantOp: "OP status has been granted."
