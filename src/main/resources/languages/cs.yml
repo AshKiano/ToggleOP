@@ -1,0 +1,5 @@
+messages:
+  noPermission: "Nemáte povolení k použití tohoto příkazu!"
+  nonPlayer: "Tento příkaz mohou použít pouze hráči!"
+  revokeOp: "OP status byl odebrán."
+  grantOp: "OP status byl udělen."
