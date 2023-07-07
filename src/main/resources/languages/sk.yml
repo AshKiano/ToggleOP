@@ -1,0 +1,10 @@
+# Táto sekcia obsahuje správy, ktoré sa odosielajú pri použití príkazu /toggleop.
+messages:
+  # Správa odoslaná, keď hráč skúsi použiť /toggleop bez povolenia.
+  noPermission: "Nemáš povolenie na použitie tohto príkazu!"
+  # Správa odoslaná, keď nie-hráč (napr., konzola) skúsi použiť /toggleop.
+  nonPlayer: "Tento príkaz môžu použiť iba hráči!"
+  # Správa odoslaná, keď sa hráčovi odoberie OP status.
+  revokeOp: "OP status bol odobratý."
+  # Správa odoslaná, keď sa hráčovi udelí OP status.
+  grantOp: "OP status bol udelený."
