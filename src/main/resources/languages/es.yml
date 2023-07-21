@@ -1,0 +1,10 @@
+# Esta sección contiene los mensajes que envía el comando /toggleop.
+messages:
+  # Mensaje enviado cuando un jugador intenta usar /toggleop sin permiso.
+  noPermission: "¡No tienes permiso para usar este comando!"
+  # Mensaje enviado cuando un no jugador (por ejemplo, consola) intenta usar /toggleop.
+  nonPlayer: "¡Solo los jugadores pueden usar este comando!"
+  # Mensaje enviado cuando se revoca el estatus de OP a un jugador.
+  revokeOp: "El estatus de OP ha sido revocado."
+  # Mensaje enviado cuando a un jugador se le otorga el estatus de OP.
+  grantOp: "Se ha otorgado el estatus de OP."

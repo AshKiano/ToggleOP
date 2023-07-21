@@ -9,7 +9,6 @@ import org.bukkit.entity.Player;
 
 import java.io.File;
 
-//TODO přidat překlady
 //TODO přidat možnosti časů ve kterých si může dát OP, mimo tento interval se OP odebere
 
 // This class handles the /toggleop command.
