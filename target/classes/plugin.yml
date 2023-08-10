@@ -1,5 +1,5 @@
 name: ToggleOp
-version: '1.6'
+version: '1.8'
 main: com.ashkiano.toggleop.ToggleOp
 api-version: '1.16'
 commands:
