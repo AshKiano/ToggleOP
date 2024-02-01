@@ -33,7 +33,7 @@ public class ToggleOp extends JavaPlugin {
         String languageCode = getConfig().getString("language", "en"); // default language is English
         this.getCommand("toggleop").setExecutor(new ToggleOpCommand(this, languageCode));
 
-        this.getLogger().info("Thank you for using the ToggleOp plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://paypal.me/josefvyskocil");
+        this.getLogger().info("Thank you for using the ToggleOp plugin! If you enjoy using this plugin, please consider making a donation to support the development. You can donate at: https://donate.ashkiano.com");
 
         Metrics metrics = new Metrics(this, 18886);
 
