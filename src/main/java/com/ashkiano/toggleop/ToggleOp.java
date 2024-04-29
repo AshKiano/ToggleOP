@@ -22,7 +22,7 @@ public class ToggleOp extends JavaPlugin {
         }
 
         // Check if language files exist, if not, save them from the resources
-        String[] languages = {"en", "cs", "de", "sk", "es"};
+        String[] languages = {"en", "cs", "de", "sk", "es", "ru"};
         for (String lang : languages) {
             File langFile = new File(languageFolder, lang + ".yml");
             if (!langFile.exists()) {
